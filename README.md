@@ -1,5 +1,4 @@
-README — Análisis de Clientes y Patrones de Uso — ConnectaTel
-📊 Análisis de Clientes y Patrones de Uso — ConnectaTel    
+README — 📊 Análisis de Clientes y Patrones de Uso — ConnectaTel    
 
 📌 Descripción del proyecto
 En este proyecto se analiza cómo utilizan los servicios los clientes de ConnectaTel.
